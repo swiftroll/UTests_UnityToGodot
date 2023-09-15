@@ -1,0 +1,5 @@
+res://new_script.cs
+res://UTests/Examples/UTestExample1.cs
+res://UTests/Examples/UTestExample2.cs
+res://UTests/UTestsRunner.cs
+res://UTests/Examples/TestExampleScene.tscn

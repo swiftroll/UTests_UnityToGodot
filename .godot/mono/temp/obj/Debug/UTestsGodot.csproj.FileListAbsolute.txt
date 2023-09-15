@@ -1,0 +1,17 @@
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\bin\Debug\UTestsGodot.deps.json
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\bin\Debug\UTestsGodot.runtimeconfig.json
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\bin\Debug\UTestsGodot.dll
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\bin\Debug\UTestsGodot.pdb
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.csproj.AssemblyReference.cache
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.AssemblyInfoInputs.cache
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.AssemblyInfo.cs
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.csproj.CoreCompileInputs.cache
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.csproj.CopyComplete
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.dll
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\refint\UTestsGodot.dll
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.pdb
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\UTestsGodot.genruntimeconfig.cache
+C:\Dev\GodotProjects\UTestsGodot\.godot\mono\temp\obj\Debug\ref\UTestsGodot.dll
